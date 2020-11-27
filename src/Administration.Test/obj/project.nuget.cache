@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zmt/k3qVEcrXIYaQ569ZHKhYJtLHLTQAWdE7aJiqQEOHPxE1qlqmqyFqRq6OSeKK8UcioIi9xHFw/++hQBOiIw==",
+  "dgSpecHash": "SL7GngOZjw8tgJaxHtyu3FiunhFatELPbFXO86XlVovtT/+WfOHBiPNIeBnyY0sg6MQehymZBUjFnImlrctQVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\Administration\\Administration.Test\\Administration.Test.csproj",
+  "projectFilePath": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\src\\Administration.Test\\Administration.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\microsoft.codecoverage\\16.8.0\\microsoft.codecoverage.16.8.0.nupkg.sha512",

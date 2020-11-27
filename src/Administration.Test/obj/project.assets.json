@@ -5566,11 +5566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\Administration\\Administration.Test\\Administration.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\src\\Administration.Test\\Administration.Test.csproj",
       "projectName": "Administration.Test",
-      "projectPath": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\Administration\\Administration.Test\\Administration.Test.csproj",
+      "projectPath": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\src\\Administration.Test\\Administration.Test.csproj",
       "packagesPath": "C:\\Users\\Jamal Hashemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\Administration\\Administration.Test\\obj\\",
+      "outputPath": "C:\\Users\\Jamal Hashemi\\source\\repos\\Gits_Personal\\SimpleAdministration\\src\\Administration.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
